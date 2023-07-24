@@ -11,6 +11,6 @@ Our question-answering system is able to handle 3 kinds of questions related to 
 `main.py` are the final running code, users can interact with the system in terminal. 
 `final_test.ipynb` is the final test version on Notebook, where shows more results of the intermediate steps.
 
-Detailed structures and sample running result shows in `chatPDF.pdf`
+__Detailed structures and sample running result shows in `chatPDF.pdf`__
 
 
